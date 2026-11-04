@@ -25,5 +25,5 @@ Tables A1-A2 6.2.4 The impacts of key financial parameters
 ## Folder 'Results'
 
 -Each subfolder contains the results corresponding to the indicated table in the manuscript.
--Each file in the subfolder 'Table7' is named according to 'DRO-BD-100×4×6×6_sample-500-\vartheta_r-\vartheta_p'. 
--Each file in the subfolder 'Table8' is named according to 'DRO-BD-100×4×6×6_sample-500-\vartheta_r-\vartheta_h-\vartheta_f'.
+-Each file in the subfolder 'TableA1' is named according to 'DRO-BD-100×4×6×6_sample-500-\vartheta_r-\vartheta_p'. 
+-Each file in the subfolder 'TableA2' is named according to 'DRO-BD-100×4×6×6_sample-500-\vartheta_r-\vartheta_h-\vartheta_f'.
